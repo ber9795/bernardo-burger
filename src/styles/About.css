@@ -3,6 +3,8 @@
     height: 90vh;
     display: flex;
     flex-direction: column;
+    background-color: #20262c;
+    color: white;
   }
   
   .aboutTop {
@@ -29,7 +31,7 @@
   .about .aboutBottom h1 {
     font-weight: 400;
     font-size: 70px;
-    color: black;
+    color: white;
     height: 30px;
     display: flex;
     justify-content: center;

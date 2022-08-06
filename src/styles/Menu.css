@@ -5,16 +5,19 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: #20262c;
   }
   .menu .menuTitle {
     font-family: cursive;
     font-size: 60px;
+    color: white;
   }
   
   .menuList {
     width: 70vw;
     height: auto;
     display: grid;
+    color:white;
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
   }
@@ -26,7 +29,7 @@
     width: 300px;
     height: 350px;
     margin: 20px;
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 3px 15px rgba(248, 245, 245, 0.2);
   }
   .menuItem:hover {
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);

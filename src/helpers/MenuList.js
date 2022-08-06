@@ -26,9 +26,4 @@ export const MenuList = [
     price: 17.99,
   },
 
-  {
-    name: "Special Burguer",
-    image: expensive,
-    price: 1997.99,
-  },
 ];
