@@ -11,8 +11,9 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/bernardo_burguer">
         <Navbar />
+      
         <Switch>
           <Route path="/" exact component={Home} />
           <Route path="/menu" exact component={Menu} />
