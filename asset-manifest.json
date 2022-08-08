@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.357e210d.css",
-    "main.js": "/static/js/main.e7d083a3.js",
-    "static/js/787.d08bd109.chunk.js": "/static/js/787.d08bd109.chunk.js",
-    "static/media/fries.jpg": "/static/media/fries.0146af175614d970deab.jpg",
-    "static/media/veganburguer.jpg": "/static/media/veganburguer.dd1c6a4581d8a68bb368.jpg",
-    "static/media/hamburguerSpecial.jpg": "/static/media/hamburguerSpecial.3a69394d1c6b00688692.jpg",
-    "static/media/burguerLogo.jpg": "/static/media/burguerLogo.8d8a396babb5de14cfd0.jpg",
-    "static/media/multipleburguers.jpg": "/static/media/multipleburguers.09a356f19ef8440bb144.jpg",
-    "static/media/expensive.jpg": "/static/media/expensive.d948b6e959f759e8feca.jpg",
-    "index.html": "/index.html",
-    "main.357e210d.css.map": "/static/css/main.357e210d.css.map",
-    "main.e7d083a3.js.map": "/static/js/main.e7d083a3.js.map",
-    "787.d08bd109.chunk.js.map": "/static/js/787.d08bd109.chunk.js.map"
+    "main.css": "/bernardo-burguer/static/css/main.357e210d.css",
+    "main.js": "/bernardo-burguer/static/js/main.a79d90bd.js",
+    "static/js/787.d08bd109.chunk.js": "/bernardo-burguer/static/js/787.d08bd109.chunk.js",
+    "static/media/fries.jpg": "/bernardo-burguer/static/media/fries.0146af175614d970deab.jpg",
+    "static/media/veganburguer.jpg": "/bernardo-burguer/static/media/veganburguer.dd1c6a4581d8a68bb368.jpg",
+    "static/media/hamburguerSpecial.jpg": "/bernardo-burguer/static/media/hamburguerSpecial.3a69394d1c6b00688692.jpg",
+    "static/media/burguerLogo.jpg": "/bernardo-burguer/static/media/burguerLogo.8d8a396babb5de14cfd0.jpg",
+    "static/media/multipleburguers.jpg": "/bernardo-burguer/static/media/multipleburguers.09a356f19ef8440bb144.jpg",
+    "static/media/expensive.jpg": "/bernardo-burguer/static/media/expensive.d948b6e959f759e8feca.jpg",
+    "index.html": "/bernardo-burguer/index.html",
+    "main.357e210d.css.map": "/bernardo-burguer/static/css/main.357e210d.css.map",
+    "main.a79d90bd.js.map": "/bernardo-burguer/static/js/main.a79d90bd.js.map",
+    "787.d08bd109.chunk.js.map": "/bernardo-burguer/static/js/787.d08bd109.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.357e210d.css",
-    "static/js/main.e7d083a3.js"
+    "static/js/main.a79d90bd.js"
   ]
 }
