@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bernardo-burguer/static/css/main.357e210d.css",
-    "main.js": "/bernardo-burguer/static/js/main.a79d90bd.js",
+    "main.js": "/bernardo-burguer/static/js/main.aaaae1a7.js",
     "static/js/787.d08bd109.chunk.js": "/bernardo-burguer/static/js/787.d08bd109.chunk.js",
     "static/media/fries.jpg": "/bernardo-burguer/static/media/fries.0146af175614d970deab.jpg",
     "static/media/veganburguer.jpg": "/bernardo-burguer/static/media/veganburguer.dd1c6a4581d8a68bb368.jpg",
@@ -11,11 +11,11 @@
     "static/media/expensive.jpg": "/bernardo-burguer/static/media/expensive.d948b6e959f759e8feca.jpg",
     "index.html": "/bernardo-burguer/index.html",
     "main.357e210d.css.map": "/bernardo-burguer/static/css/main.357e210d.css.map",
-    "main.a79d90bd.js.map": "/bernardo-burguer/static/js/main.a79d90bd.js.map",
+    "main.aaaae1a7.js.map": "/bernardo-burguer/static/js/main.aaaae1a7.js.map",
     "787.d08bd109.chunk.js.map": "/bernardo-burguer/static/js/787.d08bd109.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.357e210d.css",
-    "static/js/main.a79d90bd.js"
+    "static/js/main.aaaae1a7.js"
   ]
 }
