@@ -1,8 +1,8 @@
 {
-  "homepage": "https://ber9795.github.io",
+  "homepage": "https://ber9795.github.io/bernardo-burguer/",
   "name": "bernardo-burguer",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build main"
   },
   "resolutions": {
     "mini-css-extract-plugin": "2.4.5"
